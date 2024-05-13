@@ -115,7 +115,7 @@ namespace GodotGame.SceneModels
             }
             if (!characterBody2D.IsOnFloor())
             {
-                printHelper.Debug("跳跃");
+                //printHelper.Debug("跳跃");
                 AnimationState = AnimationEnum.Roll;
             }
         }

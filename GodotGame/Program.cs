@@ -44,6 +44,7 @@ namespace GodotGame
         public static void AddTransient(ServiceCollection builder)
         {
             builder.AddTransient<PrintHelper>();
+            builder.AddTransient<PlatformSceneModel>();
         }
     }
 
