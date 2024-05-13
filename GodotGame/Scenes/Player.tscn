@@ -330,8 +330,10 @@ size = Vector2(13, 19)
 
 [node name="Player" type="Node2D"]
 script = ExtResource("1_cgda8")
+metadata/_edit_horizontal_guides_ = [217.0]
 
 [node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+collision_layer = 2
 
 [node name="Sprite2D" type="Sprite2D" parent="CharacterBody2D"]
 position = Vector2(0, -12)
@@ -351,4 +353,5 @@ position = Vector2(-1, -10)
 shape = SubResource("RectangleShape2D_pa73o")
 
 [node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
+limit_bottom = 217
 position_smoothing_enabled = true

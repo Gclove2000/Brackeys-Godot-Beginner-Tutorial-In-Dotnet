@@ -1,11 +1,13 @@
-[gd_scene load_steps=8 format=3 uid="uid://cslfe2lq334ft"]
+[gd_scene load_steps=11 format=3 uid="uid://cslfe2lq334ft"]
 
 [ext_resource type="Script" path="res://SceneScripts/MainScene.cs" id="1_ye4p4"]
 [ext_resource type="PackedScene" uid="uid://m32ltmtkscyq" path="res://Scenes/Player.tscn" id="2_1ge3p"]
 [ext_resource type="PackedScene" uid="uid://boqs54cbquajl" path="res://Scenes/BackGround.tscn" id="3_12jew"]
 [ext_resource type="PackedScene" uid="uid://6yrneu0jeega" path="res://Scenes/Platform.tscn" id="4_jnvgm"]
+[ext_resource type="PackedScene" uid="uid://dq0od6oqrlwae" path="res://Scenes/Coin.tscn" id="5_t5nmw"]
+[ext_resource type="Script" path="res://Modules/DeathArea.cs" id="6_g6mrm"]
 
-[sub_resource type="Animation" id="Animation_pfh4n"]
+[sub_resource type="Animation" id="Animation_xs1cq"]
 resource_name = "Move"
 loop_mode = 2
 tracks/0/type = "value"
@@ -18,10 +20,10 @@ tracks/0/keys = {
 "times": PackedFloat32Array(0, 1),
 "transitions": PackedFloat32Array(1, 1),
 "update": 0,
-"values": [Vector2(46, 92), Vector2(-10, 92)]
+"values": [Vector2(44, 94), Vector2(-10, 94)]
 }
 
-[sub_resource type="Animation" id="Animation_v54ka"]
+[sub_resource type="Animation" id="Animation_c3npw"]
 length = 0.001
 tracks/0/type = "value"
 tracks/0/imported = false
@@ -33,17 +35,20 @@ tracks/0/keys = {
 "times": PackedFloat32Array(0),
 "transitions": PackedFloat32Array(1),
 "update": 0,
-"values": [Vector2(46, 92)]
+"values": [Vector2(44, 94)]
 }
 
-[sub_resource type="AnimationLibrary" id="AnimationLibrary_pi80h"]
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_khbmv"]
 _data = {
-"Move": SubResource("Animation_pfh4n"),
-"RESET": SubResource("Animation_v54ka")
+"Move": SubResource("Animation_xs1cq"),
+"RESET": SubResource("Animation_c3npw")
 }
+
+[sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_mpbno"]
 
 [node name="Main" type="Node2D"]
 script = ExtResource("1_ye4p4")
+metadata/_edit_horizontal_guides_ = [217.0]
 
 [node name="BackGround" parent="." instance=ExtResource("3_12jew")]
 
@@ -51,10 +56,32 @@ script = ExtResource("1_ye4p4")
 position = Vector2(43, 146)
 
 [node name="Platform" parent="." instance=ExtResource("4_jnvgm")]
-position = Vector2(46, 92)
+position = Vector2(44, 94)
 
 [node name="AnimationPlayer2" type="AnimationPlayer" parent="Platform"]
 libraries = {
-"": SubResource("AnimationLibrary_pi80h")
+"": SubResource("AnimationLibrary_khbmv")
 }
 autoplay = "Move"
+
+[node name="Coins" type="Node" parent="."]
+
+[node name="Coin" parent="Coins" instance=ExtResource("5_t5nmw")]
+position = Vector2(104, 158)
+
+[node name="Coin2" parent="Coins" instance=ExtResource("5_t5nmw")]
+position = Vector2(118, 158)
+
+[node name="Coin3" parent="Coins" instance=ExtResource("5_t5nmw")]
+position = Vector2(200, 157)
+
+[node name="Coin4" parent="Coins" instance=ExtResource("5_t5nmw")]
+position = Vector2(200, 86)
+
+[node name="DeathArea" type="Area2D" parent="."]
+collision_mask = 2
+script = ExtResource("6_g6mrm")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="DeathArea"]
+position = Vector2(-17, 221)
+shape = SubResource("WorldBoundaryShape2D_mpbno")

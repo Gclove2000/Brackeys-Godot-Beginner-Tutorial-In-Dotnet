@@ -34,7 +34,7 @@ namespace GodotGame.SceneModels
             {
                 if(animationState != value)
                 {
-                    printHelper?.Debug($"[{animationState}] => [{value}]");
+                    //printHelper?.Debug($"[{animationState}] => [{value}]");
                     animationState = value;
 
                 }

@@ -1,49 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\",
+  "WorkspaceRootPath": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\modules\\deatharea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:modules\\deatharea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\godot\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\scenescripts\\platformscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenescripts\\platformscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\scenemodels\\coinscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenemodels\\coinscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\godot\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\scenemodels\\platformscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenemodels\\platformscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\scenemodels\\mainscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenemodels\\mainscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\godot\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\scenemodels\\iscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenemodels\\iscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\scenescripts\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenescripts\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\godot\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\scenemodels\\playerscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\scenemodels\\playerscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenemodels\\playerscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\utils\\mygodotsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:utils\\mygodotsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\scenemodels\\mainscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenemodels\\mainscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\utils\\nloghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:utils\\nloghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\scenemodels\\iscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenemodels\\iscenemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\scenescripts\\playerscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\scenescripts\\playerscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenescripts\\playerscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\utils\\freesqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\scenescripts\\coinscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenescripts\\coinscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\scenescripts\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:scenescripts\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\utils\\mygodotsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:utils\\mygodotsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\utils\\nloghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:utils\\nloghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|d:\\workspace\\program\\godot game\\brackeys-godot-beginner-tutorial-in-dotnet\\godotgame\\utils\\freesqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86887FA5-0319-4425-A045-F18000E6908F}|GodotGame.csproj|solutionrelative:utils\\freesqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,15 +58,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeathArea.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Modules\\DeathArea.cs",
+              "RelativeDocumentMoniker": "Modules\\DeathArea.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Modules\\DeathArea.cs",
+              "RelativeToolTip": "Modules\\DeathArea.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA1wC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:28:22.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerSceneModel.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\PlayerSceneModel.cs",
+              "RelativeDocumentMoniker": "SceneModels\\PlayerSceneModel.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\PlayerSceneModel.cs",
+              "RelativeToolTip": "SceneModels\\PlayerSceneModel.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:32:37.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerScene.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\PlayerScene.cs",
+              "RelativeDocumentMoniker": "SceneScripts\\PlayerScene.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\PlayerScene.cs",
+              "RelativeToolTip": "SceneScripts\\PlayerScene.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:58:54.003Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ISceneModel.cs",
-              "DocumentMoniker": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\ISceneModel.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\ISceneModel.cs",
               "RelativeDocumentMoniker": "SceneModels\\ISceneModel.cs",
-              "ToolTip": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\ISceneModel.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\ISceneModel.cs",
               "RelativeToolTip": "SceneModels\\ISceneModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,61 +114,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlatformSceneModel.cs",
-              "DocumentMoniker": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\PlatformSceneModel.cs",
-              "RelativeDocumentMoniker": "SceneModels\\PlatformSceneModel.cs",
-              "ToolTip": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\PlatformSceneModel.cs",
-              "RelativeToolTip": "SceneModels\\PlatformSceneModel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvxkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:32:29.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlatformScene.cs",
-              "DocumentMoniker": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\PlatformScene.cs",
-              "RelativeDocumentMoniker": "SceneScripts\\PlatformScene.cs",
-              "ToolTip": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\PlatformScene.cs",
-              "RelativeToolTip": "SceneScripts\\PlatformScene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:32:02.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FreeSqlHelper.cs",
-              "DocumentMoniker": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\FreeSqlHelper.cs",
-              "RelativeDocumentMoniker": "Utils\\FreeSqlHelper.cs",
-              "ToolTip": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\FreeSqlHelper.cs",
-              "RelativeToolTip": "Utils\\FreeSqlHelper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T08:37:44.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MyGodotSetting.cs",
-              "DocumentMoniker": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\MyGodotSetting.cs",
-              "RelativeDocumentMoniker": "Utils\\MyGodotSetting.cs",
-              "ToolTip": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\MyGodotSetting.cs",
-              "RelativeToolTip": "Utils\\MyGodotSetting.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T07:18:16.483Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainSceneModel.cs",
-              "DocumentMoniker": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\MainSceneModel.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\MainSceneModel.cs",
               "RelativeDocumentMoniker": "SceneModels\\MainSceneModel.cs",
-              "ToolTip": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\MainSceneModel.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\MainSceneModel.cs",
               "RelativeToolTip": "SceneModels\\MainSceneModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,24 +127,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CoinSceneModel.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\CoinSceneModel.cs",
+              "RelativeDocumentMoniker": "SceneModels\\CoinSceneModel.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\CoinSceneModel.cs",
+              "RelativeToolTip": "SceneModels\\CoinSceneModel.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:52:16.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoinScene.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\CoinScene.cs",
+              "RelativeDocumentMoniker": "SceneScripts\\CoinScene.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\CoinScene.cs",
+              "RelativeToolTip": "SceneScripts\\CoinScene.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:52:08.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Program.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Program.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAwC8AAAAJAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwC4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T06:20:56.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "FreeSqlHelper.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\FreeSqlHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\FreeSqlHelper.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\FreeSqlHelper.cs",
+              "RelativeToolTip": "Utils\\FreeSqlHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:37:44.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyGodotSetting.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\MyGodotSetting.cs",
+              "RelativeDocumentMoniker": "Utils\\MyGodotSetting.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\MyGodotSetting.cs",
+              "RelativeToolTip": "Utils\\MyGodotSetting.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:18:16.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "NlogHelper.cs",
-              "DocumentMoniker": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\NlogHelper.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\NlogHelper.cs",
               "RelativeDocumentMoniker": "Utils\\NlogHelper.cs",
-              "ToolTip": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\NlogHelper.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\Utils\\NlogHelper.cs",
               "RelativeToolTip": "Utils\\NlogHelper.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,41 +202,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MainScene.cs",
-              "DocumentMoniker": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\MainScene.cs",
+              "DocumentMoniker": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\MainScene.cs",
               "RelativeDocumentMoniker": "SceneScripts\\MainScene.cs",
-              "ToolTip": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\MainScene.cs",
+              "ToolTip": "D:\\workspace\\program\\Godot Game\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\MainScene.cs",
               "RelativeToolTip": "SceneScripts\\MainScene.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T06:20:14.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayerSceneModel.cs",
-              "DocumentMoniker": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\PlayerSceneModel.cs",
-              "RelativeDocumentMoniker": "SceneModels\\PlayerSceneModel.cs",
-              "ToolTip": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneModels\\PlayerSceneModel.cs",
-              "RelativeToolTip": "SceneModels\\PlayerSceneModel.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAuwH0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T06:19:59.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PlayerScene.cs",
-              "DocumentMoniker": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\PlayerScene.cs",
-              "RelativeDocumentMoniker": "SceneScripts\\PlayerScene.cs",
-              "ToolTip": "D:\\workSpace\\godot\\Brackeys-Godot-Beginner-Tutorial-In-Dotnet\\GodotGame\\SceneScripts\\PlayerScene.cs",
-              "RelativeToolTip": "SceneScripts\\PlayerScene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T06:19:47.276Z"
+              "WhenOpened": "2024-05-11T06:20:14.704Z"
             }
           ]
         }
