@@ -34,6 +34,7 @@ namespace GodotGame
 
             builder.AddSingleton<NlogHelper>();
             builder.AddSingleton<MainSceneModel>();
+            builder.AddSingleton<PlayerSceneModel>();
             builder.AddSingleton<FreeSqlHelper>();
         }
         /// <summary>
