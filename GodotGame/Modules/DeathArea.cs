@@ -28,7 +28,9 @@ namespace GodotGame.Modules
             if (body.GetParent() is PlayerScene)
             {
                 printHelper.Debug("You Get Die");
-                Reload();
+                var scene = (PlayerScene) body.GetParent();
+                Reload(scene);
+
             }
         }
 
@@ -36,9 +38,10 @@ namespace GodotGame.Modules
         /// 为了线程安全，我们只能这么做
         /// </summary>
         /// <returns></returns>
-        private async Task Reload()
+        private async Task Reload(PlayerScene scene)
         {
             await Task.Delay(600);
+            scene.Model.Reload();
             GetTree().ReloadCurrentScene();
 
         }

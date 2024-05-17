@@ -45,6 +45,7 @@ namespace GodotGame
         {
             builder.AddTransient<PrintHelper>();
             builder.AddTransient<CoinSceneModel>();
+            builder.AddTransient<EnemySceneModel>();
         }
     }
 

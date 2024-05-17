@@ -48,7 +48,6 @@ namespace GodotGame.SceneModels
             get => isFlip;
             set
             {
-
                 if(isFlip != value)
                 {
                     var postion = characterBody2D.Scale;
@@ -58,6 +57,16 @@ namespace GodotGame.SceneModels
                 }
             }
         }
+
+        /// <summary>
+        /// 重载
+        /// </summary>
+        public void Reload()
+        {
+            printHelper.Debug("重置玩家的初始状态");
+            isFlip = false;
+        }
+
         public PlayerSceneModel(PrintHelper printHelper)
         {
             this.printHelper = printHelper;

@@ -1,4 +1,4 @@
-[gd_scene load_steps=11 format=3 uid="uid://cslfe2lq334ft"]
+[gd_scene load_steps=12 format=3 uid="uid://cslfe2lq334ft"]
 
 [ext_resource type="Script" path="res://SceneScripts/MainScene.cs" id="1_ye4p4"]
 [ext_resource type="PackedScene" uid="uid://m32ltmtkscyq" path="res://Scenes/Player.tscn" id="2_1ge3p"]
@@ -6,6 +6,7 @@
 [ext_resource type="PackedScene" uid="uid://6yrneu0jeega" path="res://Scenes/Platform.tscn" id="4_jnvgm"]
 [ext_resource type="PackedScene" uid="uid://dq0od6oqrlwae" path="res://Scenes/Coin.tscn" id="5_t5nmw"]
 [ext_resource type="Script" path="res://Modules/DeathArea.cs" id="6_g6mrm"]
+[ext_resource type="PackedScene" uid="uid://cwkvue0t7np4x" path="res://Scenes/Enemy.tscn" id="7_eo7fw"]
 
 [sub_resource type="Animation" id="Animation_xs1cq"]
 resource_name = "Move"
@@ -85,3 +86,8 @@ script = ExtResource("6_g6mrm")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="DeathArea"]
 position = Vector2(-17, 221)
 shape = SubResource("WorldBoundaryShape2D_mpbno")
+
+[node name="Enemy" type="Node" parent="."]
+
+[node name="Enemy" parent="Enemy" instance=ExtResource("7_eo7fw")]
+position = Vector2(236, 173)
